@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652830916 source:c:\codeblocks\exercicios\criptografia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

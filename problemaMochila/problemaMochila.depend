@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654208735 source:c:\codeblocks\exercicios\problemamochila\main.c
+	<stdio.h>
+	<stdlib.h>
+
